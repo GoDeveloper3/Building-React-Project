@@ -1,3 +1,4 @@
+
 # Homely Hub
 
 Homely Hub is an Airbnb clone designed to provide users with a seamless platform for listing and renting properties for short-term stays. This README file provides an overview of the project's features, functionalities, and how to set it up for local development.
@@ -52,3 +53,4 @@ Contributions to Homely Hub are welcome! If you'd like to contribute, please fol
 6. Create a new Pull Request.
 
   
+
